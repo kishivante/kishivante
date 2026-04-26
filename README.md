@@ -8,10 +8,18 @@
 
 > ⚠️ **Be careful!** I have so many <strong>not polished products</strong>
 
+---
+
+> Lately, I have become obsessed server projects in Linux operating systems.
+> I just started but its very interesting
+
+---
 
 > Well. I am so lazy to start or think new ideas.
 > But once i start, i definitely finish it.
 
-> <strong>Im so broke for wiz wiz components</strong>  
+---
+> I usually doing rasp end arduino projects.
+> <strong>But i am so broke for zap zap components</strong>  
 
 ---
