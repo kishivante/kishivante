@@ -22,4 +22,11 @@
 
 - Repolarının çoğu gizli olmakla sanallaştırma üzerine çalışmalar yaptığım kısım: [@scarletsatellite](https://github.com/scarletsatellite)
 
+#### Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kishivante" height="182" />
+</p>
+
+
 #### Ben basit bir adamım.
