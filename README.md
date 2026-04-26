@@ -1,25 +1,23 @@
-<h1 align="center" style="color:#00ff00; font-family:monospace;">$ whoami → Vante</h1>
-<h4 align="center" style="color:#39ff14; font-family:monospace;">
-  "If it works, leave it"
-</h4>
-
-
-<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
-
-> ⚠️ **Be careful!** I have so many <strong>not polished products</strong>
+###$root@whoami → Yalçın</h1>
+####  "Eğer çalışıyorsa dokunma"
 
 ---
 
-> Lately, I have become obsessed server projects in Linux operating systems.
-> I just started but its very interesting
+#### Meraba
 
----
+#### Ben
 
-> Well. I am so lazy to start or think new ideas.
-> But once i start, i definitely finish it.
+-  Sunucu sistemleri ve sanallaştırma üzerinde uzmanım diyebilirim?.
+-  Şu anlık modelleme öğreniyorum ama iyi gitmiyor.
+-  <a style="color:yellow" href="https://blog.scarletsatellite.com">https://blog.scarletsatellite.com<a> adında bir sitem var ama pek kullanmıyorum.
+-  Bana bir şey soracaksanız geç cevap veririm.
 
----
-> I usually doing rasp end arduino projects.
-> <strong>But i am so broke for zap zap components</strong>  
+#### Diğer yerler
 
----
+- Repolarının çoğu gizli olmakla sanallaştırma üzerine çalışmalar yaptığım kısım: [@scarletsatellite](https://github.com/scarletsatellite)
+
+#### Statlar
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kishivante" height="182" />
+</p>
