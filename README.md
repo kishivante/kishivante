@@ -1,6 +1,7 @@
-###$root@whoami → Yalçın</h1>
-####  "Eğer çalışıyorsa dokunma"
-
+<h1 align="center" style="color:#00ff00; font-family:monospace;">$root@whoami → Yalçın</h1>
+<h4 align="center" style="color:#39ff14; font-family:monospace;">
+  "Eğer çalışıyorsa dokunma"
+</h4>h4
 ---
 
 #### Meraba
