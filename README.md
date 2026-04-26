@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center" style="color:#00ff00; font-family:monospace;">$ whoami → Vante</h1>
+<h4 align="center" style="color:#39ff14; font-family:monospace;">
+  "If it works, leave it"
+</h4>
 
-<!--
-**kishivante/kishivante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  📫 Reach me at: <strong>space</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
+
+> ⚠️ **Be careful!** I have so many <strong>not polished products</strong>
+>  
+
+> <strong>Im so broke for wiz wiz components</strong>  
+
+---
