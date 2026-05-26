@@ -3,7 +3,7 @@
 <p align="center">"Eğer çalışıyorsa dokunma"</p>
 
 <p align="center">
-  Bana ulaşmak için sitenin çalışmayan <a style="color:yellow" href="https://blog.scarletsatellite.com/contact"><strong>contact</strong></a>a kısmını kullanabilirsiniz.
+  Bana ulaşmak için sitenin çalışmayan <a style="color:yellow" href="https://blog.scarletsatellite.com/contact"><strong>contact</strong></a> kısmını kullanabilirsiniz.
 </p>
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
